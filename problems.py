@@ -66,3 +66,10 @@ This process is called amortization, and the general use of it is a more advance
 
 def fast_fibonacci(n: int) -> int:
     pass
+
+
+"""
+Double Bonus Challenge:
+Rewrite fast_fibonacci to run fast without using recursion.
+Hint: You won't need to nest anything deeper than a single for loop
+"""
