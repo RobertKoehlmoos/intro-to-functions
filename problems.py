@@ -46,7 +46,7 @@ Tell me what the 100th fibonacci number is. Don't worry, I'll wait.
 
 Okay, I lied, I won't actually wait that long.
 You probably noticed your function was taking a while to return. If you wrote your fibonacci function using normal
-recursion it probably takes an exponential amount as the number it's calculating grows larger, so caluclating
+recursion it probably takes an exponential amount as the number it's calculating grows larger, so calculating
 the 99th fibonacci number takes almost twice as long as the 98th, and four times as long as the 97th, etc.
 
 Rewrite your original function in the below fast_fibonacci to be able to calculate them quickly. Here are some tips:
